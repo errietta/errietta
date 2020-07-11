@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Senior Software Engineer. Sometimes work on FOSS/pet projects
+
 <!--
 **errietta/errietta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
